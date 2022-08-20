@@ -1,6 +1,6 @@
 # ResponsiveCalculatorJava2D
-Project of simple responsive calculator which let me to get familiar with UI layouts. In the final version Grid/Border layouts are implemented.
-Projected was created for fun, working with UI its fun. 
+Project of simple responsive calculator which let me get familiar with UI layouts. In the final version Grid/Border layouts are implemented.
+Projected created for fun.
 
 ![image](https://user-images.githubusercontent.com/83671766/185736572-35d2a4d7-6d0c-486b-a140-e23e08b42274.png)
 
